@@ -8,7 +8,7 @@ import {
 } from './styles';
 
 type TotalItemsData = {
-  cartTotal: number;
+  cartTotal: string;
   totalItemsInCart: number;
 };
 
